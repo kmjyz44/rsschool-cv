@@ -52,4 +52,4 @@ function getParticipants(handshakes){
 - Ukrainian - Intermediate
 - Polish - Basic
 - English
-- 
+
