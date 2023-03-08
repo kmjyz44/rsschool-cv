@@ -1,1 +1,2 @@
-https://kmjyz44.github.io/rsschool-cv/cv
+
+https://kmjyz44.github.io/rsschool-cv/
